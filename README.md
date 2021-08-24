@@ -11,7 +11,7 @@
  <div>
   <a href="https://github.com/hellzz13">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hellzz13&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellzz13&layout=compact&langs_count=7&theme=radical"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellzz13&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Helio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
