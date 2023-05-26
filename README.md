@@ -3,7 +3,7 @@
 ### Desenvolvedor Front-end 
 
 - 🔭 Atualmente estou trabalhando com desenvolvimento web, utilizando o ecossistema Javascript.
-- 🌱 Estudando e criando projetos utilizando Reactjs com Typescript.
+- 🌱 Aprimorando meus conhecimentos e criando projetos utilizando Reactjs && React native com Typescript.
 
 
 ### Contato:
