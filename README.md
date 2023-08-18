@@ -4,6 +4,7 @@
 
 - 🔭 Atualmente estou trabalhando com desenvolvimento web, utilizando o ecossistema Javascript.
 - 🌱 Aprimorando meus conhecimentos e criando projetos utilizando Reactjs && React native com Typescript.
+- ✨ Atualmente estudando swift para desenvolver aplicações nativas para plataformas Apple.
 
 
 ### Contato:
